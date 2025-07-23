@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: wheat;
+}
+.listofTodos {
+  display: flex;
+  align-items: center;
+}
+.delete {
+  background-color: transparent;
+  border: none;
+}
